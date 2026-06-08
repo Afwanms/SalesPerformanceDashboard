@@ -115,7 +115,7 @@ SalesPerformanceDashboard/
 │   ├── customer_product_insights.jpg
 │   └── sales_performance.jpg
 │
-├── sql/
+├── SQL/
 │   ├── business_analysis.sql
 │   ├── eda.sql
 │   └── new_insight.sql
